@@ -44,3 +44,5 @@ class CashRegister
         @total = self.total-self.prices.last
         #binding.pry
     end
+  end
+end
