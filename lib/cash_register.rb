@@ -45,4 +45,3 @@ class CashRegister
         #binding.pry
     end
   end
-end
